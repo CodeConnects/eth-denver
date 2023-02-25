@@ -1,0 +1,4 @@
+Tellor
+    Will we need any oracle services?
+    ✅ Submit link to deployed and verified contract that integrates the “usingTellor” npm package
+    ✅ Submit a txn hash of your tip to the Tellor reporters (the tip incentivizes reporters to provide data)
