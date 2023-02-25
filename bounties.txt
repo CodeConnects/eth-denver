@@ -24,3 +24,15 @@ Infura ~ $2.5k x2
 
 Web3Modal ~ $2.5k
     Build a DeFi app using Web3Modal and showcase its potential to solve real-world problems in the finance industry
+
+TheGraph ~ $2.5k
+    Best new subgraph and best use of existing subgraph
+    Build and deploy a custom GraphQL API that indexes data from a smart contract to query blockchain data to your dapp
+
+Spectral.finance ~ $8k
+
+Huma ~ $2k up to $7.5k on 4 different applicable bounties
+    Launch a real-world lending use case on Huma
+    Build new signal adapters
+    Enable Huma with a new payment network or payroll provider
+    A credit line for every wallet
