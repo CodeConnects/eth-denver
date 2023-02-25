@@ -1,4 +1,10 @@
+Compose DB ~ $2k x 2
+    Must use ComposeDB on Ceramic
+    Must be a identity or reputation space
+    At least one new data model created or at least one existing data model re-used for the application
+
 Tellor
     Will we need any oracle services?
     ✅ Submit link to deployed and verified contract that integrates the “usingTellor” npm package
     ✅ Submit a txn hash of your tip to the Tellor reporters (the tip incentivizes reporters to provide data)
+
