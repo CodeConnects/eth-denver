@@ -19,3 +19,8 @@ Chainlink ~ $2k x 5
 Circle ~ $2.5k x 2
     Embed Streaming USDC Payments into your App
 
+Infura ~ $2.5k x2
+    Best Multi-Network Deployment using Infura
+
+Web3Modal ~ $2.5k
+    Build a DeFi app using Web3Modal and showcase its potential to solve real-world problems in the finance industry
