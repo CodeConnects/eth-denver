@@ -1,23 +1,33 @@
+Huma ~ $2k up to $7.5k on 4 different applicable bounties
+    Launch a real-world lending use case on Huma
+    Build new signal adapters
+    Enable Huma with a new payment network or payroll provider
+    A credit line for every wallet
+
+Circle ~ $2.5k x 2
+    Embed Streaming USDC Payments into your App
+
+Spectral.finance ~ $8k
+    Integrate Spectral’s MACRO score on Arbitrum
+    Create new value through a novel hybrid lending system, identity tools for MACRO Score, or other
+
 Compose DB ~ $2k x 2
     Must use ComposeDB on Ceramic
     Must be a identity or reputation space
     At least one new data model created or at least one existing data model re-used for the application
+
+Polygon ~ $5k x 2
+    Best use of Polygon
+    Can be mainnet or zkEVM testnet
 
 Tellor
     Will we need any oracle services?
     ✅ Submit link to deployed and verified contract that integrates the “usingTellor” npm package
     ✅ Submit a txn hash of your tip to the Tellor reporters (the tip incentivizes reporters to provide data)
 
-Polygon ~ $5k x 2
-    Best use of Polygon
-    Can be mainnet or zkEVM testnet
-
 Chainlink ~ $2k x 5
     Chainlink Functions
     make use of Chainlink Functions, and the result of the Functions call should change the state of a smart contract on-chain
-
-Circle ~ $2.5k x 2
-    Embed Streaming USDC Payments into your App
 
 Infura ~ $2.5k x2
     Best Multi-Network Deployment using Infura
@@ -28,11 +38,3 @@ Web3Modal ~ $2.5k
 TheGraph ~ $2.5k
     Best new subgraph and best use of existing subgraph
     Build and deploy a custom GraphQL API that indexes data from a smart contract to query blockchain data to your dapp
-
-Spectral.finance ~ $8k
-
-Huma ~ $2k up to $7.5k on 4 different applicable bounties
-    Launch a real-world lending use case on Huma
-    Build new signal adapters
-    Enable Huma with a new payment network or payroll provider
-    A credit line for every wallet
