@@ -8,3 +8,7 @@ Tellor
     ✅ Submit link to deployed and verified contract that integrates the “usingTellor” npm package
     ✅ Submit a txn hash of your tip to the Tellor reporters (the tip incentivizes reporters to provide data)
 
+Polygon ~ $5k x 2
+    Best use of Polygon
+    Can be mainnet or zkEVM testnet
+
