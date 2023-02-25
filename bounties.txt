@@ -12,3 +12,10 @@ Polygon ~ $5k x 2
     Best use of Polygon
     Can be mainnet or zkEVM testnet
 
+Chainlink ~ $2k x 5
+    Chainlink Functions
+    make use of Chainlink Functions, and the result of the Functions call should change the state of a smart contract on-chain
+
+Circle ~ $2.5k x 2
+    Embed Streaming USDC Payments into your App
+
