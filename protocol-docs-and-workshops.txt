@@ -4,3 +4,10 @@ Huma Finance
   
   Huma Subgraph technical reference
   https://docs.google.com/document/d/1UmDFvsKoBJ7mCY7QJpeHV7I-QOY8xucEwsqPNYfROmg/edit
+
+Polygon
+  zkEVM launching March 27. Tech lead of the project was not fully confident in launch date
+  He also was a bit worried about future hacks. Kept mentioning that there is no warranty for devs using it
+  It will be centralized at first on the Prover side, which seems to be the main attack vector
+  A corrupt Prover could prove a bad transaction, and then others would validate their zk proof as good
+  
