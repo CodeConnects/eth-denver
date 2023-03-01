@@ -3,3 +3,8 @@ ETH Starter
   Iterated version of Scaffold ETH that includes Hardhat, Next.js, RainbowKit, wagmi, Chakra UI
   Created by Hunter Chang for the Buidl Guidl
   Demo found at https://nextjs-ethereum-starter.vercel.app/
+
+Truffle Starter kit with Chainlink
+  https://github.com/smartcontractkit/truffle-starter-kit
+  Includes Chainlink Price Feeds, Chainlink VRF, Chainlink Keepers, Request & Receive data
+
