@@ -1,1 +1,5 @@
-
+ETH Starter
+  https://github.com/ChangoMan/nextjs-ethereum-starter
+  Iterated version of Scaffold ETH that includes Hardhat, Next.js, RainbowKit, wagmi, Chakra UI
+  Created by Hunter Chang for the Buidl Guidl
+  Demo found at https://nextjs-ethereum-starter.vercel.app/
